@@ -1,0 +1,22 @@
+{
+    "name": "masterdmx/laravel-media-manager",
+    "description": "UI manager from laravel-media",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Sergey Krening",
+            "email": "masterdmx3325@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MasterDmx\\LaravelMediaManager\\": "src/"
+        }
+    },
+    "version": "1.0.1",
+    "require": {
+        "masterdmx/laravel-media": "1.1.*"
+    }
+}
