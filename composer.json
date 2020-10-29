@@ -15,6 +15,5 @@
             "MasterDmx\\LaravelMediaManager\\": "src/"
         }
     },
-    "version": "1.0.2",
-    "require": {}
+    "version": "1.0.2"
 }
